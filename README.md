@@ -13,6 +13,10 @@ Feel free to fork and pull changes as well.
 
 1. [7-Zip](http://www.7-zip.org) Open any archive format
 
+## CAD
+
+1. CadSoft EAGLE - PCB Design software
+
 ## CD-DVD Burning
 
 1. ImgBurn
@@ -22,7 +26,8 @@ Feel free to fork and pull changes as well.
 1. [PDQ Deploy](http://www.adminarsenal.com/pdq-deploy/main/) Free version available, deploy software across Windows domain
 2. [Nanite Pro](http://ninite.com/pro) Subscription, manage software in a Windows domain
 3. [Ninite](http://ninite.com/) Windows & Linux. Download and install from a range of software - quickly and easy
-
+4. SpiceWorks
+5. GLPI
 
 ## Diagrams, Flowcharts, UML, Network Diagrams, Trees
 
@@ -30,7 +35,7 @@ Feel free to fork and pull changes as well.
 2. Network Notepad
 3. [asciiflow.com](http://www.asciiflow.com) 
 4. [Dia](https://live.gnome.org/Dia)
-5. Ekahau HeatMapper - WiFi Covarage map
+5. Ekahau HeatMapper - WiFi Coverage map
 6. Gliffy
 
 ## Editors
@@ -43,6 +48,7 @@ Feel free to fork and pull changes as well.
 ### Graphic Interface `GUI`
 
 1. Notepad++
+2. PSPad
 
 ## Font tools
 
@@ -82,6 +88,11 @@ Feel free to fork and pull changes as well.
 2. PuTTY
 3. Bitvise Tunnelier
 
+## Share keyboard and mouse across multiple systems
+
+1. Input Director
+2. Synergy
+
 ## Simulation
 
 1. felstad - electronic circuit visualization
@@ -90,6 +101,10 @@ Feel free to fork and pull changes as well.
 
 1. git
 2. SVN
+
+## Web developer
+
+1. IETester
 
 ## Web servers
 
@@ -102,7 +117,8 @@ Feel free to fork and pull changes as well.
 ## Windows tools
 
 1. Sysinternals Utilities - manage and troubleshoot Windows based machines
-
+2. [NirSoft](http://www.nirsoft.net/)
+3. Hiren's BootCD
 
 
 
