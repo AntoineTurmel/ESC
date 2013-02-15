@@ -20,8 +20,8 @@ Feel free to fork and pull changes as well.
 ## Deployment, Software Management
 
 1. [PDQ Deploy](http://www.adminarsenal.com/pdq-deploy/main/) Free version available, deploy software across Windows domain
-2. [Nanite Pro](http://ninite.com/pro) Subscribtion, manage software in a Windows domain
-3. [Ninite](http://ninite.com/) Windows & Linux. Download and install from a range of software - quicky and easy
+2. [Nanite Pro](http://ninite.com/pro) Subscription, manage software in a Windows domain
+3. [Ninite](http://ninite.com/) Windows & Linux. Download and install from a range of software - quickly and easy
 
 
 ## Diagrams, Flowcharts, UML, Network Diagrams, Trees
@@ -31,6 +31,7 @@ Feel free to fork and pull changes as well.
 3. [asciiflow.com](http://www.asciiflow.com) 
 4. [Dia](https://live.gnome.org/Dia)
 5. Ekahau HeatMapper - WiFi Covarage map
+6. Gliffy
 
 ## Editors
 
@@ -48,7 +49,7 @@ Feel free to fork and pull changes as well.
 1. [Inkscape](http://inkscape.org/)
 2. [FontForge](http://fontforge.org/)
 
-# IRC
+## IRC
 
 1. irssi
 2. mIRC
@@ -62,9 +63,18 @@ Feel free to fork and pull changes as well.
 4. Winamp
 5. KMPlayer
 
+## Optical character recognition (OCR)
+
+1. [Tesseract](http://code.google.com/p/tesseract-ocr/)
+
 ## Password management
 
 1. KeePass
+
+## Proxy
+
+1. RDProxy - basic proxy app for Windows
+2. Tor Bundle
 
 ## Secure Shell (SSH)
 
@@ -72,10 +82,22 @@ Feel free to fork and pull changes as well.
 2. PuTTY
 3. Bitvise Tunnelier
 
+## Simulation
+
+1. felstad - electronic circuit visualization
+
 ## Version control, revision control,  source code management
 
 1. git
+2. SVN
 
+## Web servers
+
+1. HFS - Portable web server for Windows
+2. Apache
+3. Nginx
+4. Cherokee
+5. Lighttpd
 
 ## Windows tools
 
