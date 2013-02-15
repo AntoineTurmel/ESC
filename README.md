@@ -48,6 +48,11 @@ Feel free to fork and pull changes as well.
 1. [Inkscape](http://inkscape.org/)
 2. [FontForge](http://fontforge.org/)
 
+# IRC
+
+1. irssi
+2. mIRC
+3. x-chat
 
 ## Media Player
 
