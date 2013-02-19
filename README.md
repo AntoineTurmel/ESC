@@ -82,6 +82,13 @@ Feel free to fork and pull changes as well.
 1. RDProxy - basic proxy app for Windows
 2. Tor Bundle
 
+## Remote Management
+
+1. [mRemoteNG](http://www.mremoteng.org/) - RDP, VNC, ICA, SSH TELNET
+2. RDCMan
+3. Remote Desktop Manager 
+4. [CoRD](http://cord.sourceforge.net/) - Remote desktop for OS X
+
 ## Secure Shell (SSH)
 
 1. ssh
