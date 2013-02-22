@@ -50,6 +50,12 @@ Feel free to fork and pull changes as well.
 1. Notepad++
 2. PSPad
 
+## File transfer 
+
+1. scp
+2. rsync
+3. winscp SFTP, FTP, SSH(SCP)
+
 ## Font tools
 
 1. [Inkscape](http://inkscape.org/)
@@ -104,7 +110,7 @@ Feel free to fork and pull changes as well.
 
 1. felstad - electronic circuit visualization
 
-## Version control, revision control,  source code management
+## Version control, revision control, source code management
 
 1. git
 2. SVN
