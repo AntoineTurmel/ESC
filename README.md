@@ -21,6 +21,12 @@ Feel free to fork and pull changes as well.
 
 1. ImgBurn
 
+## Cygwin better terminal emulator
+
+1. mintty
+2. Console2
+3. rxvt
+
 ## Deployment, Software Management
 
 1. [PDQ Deploy](http://www.adminarsenal.com/pdq-deploy/main/) Free version available, deploy software across Windows domain
