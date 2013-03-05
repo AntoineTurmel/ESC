@@ -9,6 +9,12 @@ A list of software packages that make life a bit easier. For when I just want to
 If you feel something is missing or incorrect, please, open [a issue](https://github.com/rossengeorgiev/ESC/issues).
 Feel free to fork and pull changes as well.
 
+## Amateur Radio, HAM
+
+1. fldigi
+2. ui-view32
+3. MixW
+
 ## Archives
 
 1. [7-Zip](http://www.7-zip.org) Open any archive format
