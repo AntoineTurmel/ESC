@@ -122,6 +122,11 @@ Feel free to fork and pull changes as well.
 
 1. felstad - electronic circuit visualization
 
+## Software Defined Radio SDR
+
+1. HDSDR
+2. #sdr - sharpsdr
+
 ## Version control, revision control, source code management
 
 1. git
@@ -149,6 +154,11 @@ Feel free to fork and pull changes as well.
 1. Sysinternals Utilities - manage and troubleshoot Windows based machines
 2. [NirSoft](http://www.nirsoft.net/)
 3. Hiren's BootCD
+
+## X Server, x11
+
+1. Xming - Windows
+2. Cygwin/X - Windows
 
 
 
