@@ -1,6 +1,6 @@
 # Epic Software Collection
 
-A list of software packages that make life a bit easier.
+A list of software packages that make life a bit easier. For when I just want to press ESC.
 
 `CTRL+F` to start :)
 
@@ -132,6 +132,11 @@ Feel free to fork and pull changes as well.
 3. Nginx
 4. Cherokee
 5. Lighttpd
+
+## Window Manager
+
+1. fluxbox - minimalistic and lightweight
+2. openbox
 
 ## Windows tools
 
