@@ -45,7 +45,7 @@ Feel free to fork and pull changes as well.
 
 1. [yEd](http://www.yworks.com/en/downloads.html#yEd) Awesome charts, any OS and free. TRY IT!
 2. Network Notepad
-3. [asciiflow.com](http://www.asciiflow.com) 
+3. [asciiflow.com](http://www.asciiflow.com)
 4. [Dia](https://live.gnome.org/Dia)
 5. Ekahau HeatMapper - WiFi Coverage map
 6. Gliffy
@@ -62,7 +62,7 @@ Feel free to fork and pull changes as well.
 1. Notepad++
 2. PSPad
 
-## File transfer 
+## File transfer
 
 1. scp
 2. rsync
@@ -104,14 +104,15 @@ Feel free to fork and pull changes as well.
 
 1. [mRemoteNG](http://www.mremoteng.org/) - RDP, VNC, ICA, SSH TELNET
 2. RDCMan
-3. Remote Desktop Manager 
+3. Remote Desktop Manager
 4. [CoRD](http://cord.sourceforge.net/) - Remote desktop for OS X
 
 ## Secure Shell (SSH)
 
 1. ssh
 2. PuTTY
-3. Bitvise Tunnelier
+3. [KiTTY](http://globnet.free.fr/kitty/) - A PuTTY fork, with some very useful features
+4. Bitvise Tunnelier
 
 ## Share keyboard and mouse across multiple systems
 
