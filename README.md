@@ -36,7 +36,7 @@ Feel free to fork and pull changes as well.
 ## Deployment, Software Management
 
 1. [PDQ Deploy](http://www.adminarsenal.com/pdq-deploy/main/) Free version available, deploy software across Windows domain
-2. [Nanite Pro](http://ninite.com/pro) Subscription, manage software in a Windows domain
+2. [Ninite Pro](http://ninite.com/pro) Subscription, manage software in a Windows domain
 3. [Ninite](http://ninite.com/) Windows & Linux. Download and install from a range of software - quickly and easy
 4. SpiceWorks
 5. GLPI
@@ -127,6 +127,11 @@ Feel free to fork and pull changes as well.
 
 1. HDSDR
 2. #sdr - sharpsdr
+
+## System management
+
+1. iostat
+2. [ioping](https://code.google.com/p/ioping/) - ping your disk latency
 
 ## Version control, revision control, source code management
 
