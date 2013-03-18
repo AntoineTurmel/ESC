@@ -107,6 +107,10 @@ Feel free to fork and pull changes as well.
 3. Remote Desktop Manager
 4. [CoRD](http://cord.sourceforge.net/) - Remote desktop for OS X
 
+## Routers - Custom Firmware
+
+1. [dd-wrt](http://www.dd-wrt.com) - a bunch of router goodness, supports wide range of devices
+
 ## Secure Shell (SSH)
 
 1. ssh
