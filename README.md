@@ -15,6 +15,15 @@ Feel free to fork and pull changes as well.
 2. ui-view32
 3. MixW
 
+## Android apps
+
+1. DriveDroid - Boot PC with any iso from your phone
+2. Find
+3. ElectroDroid - pin-out reference, electronic component reference and everything you ned
+4. Time Recording - keep taps on your time
+5. EveryCurcuit - electornic curcuit simulator
+6. Chrome - great for debuging webapps, using Chrome on your PC
+
 ## Archives
 
 1. [7-Zip](http://www.7-zip.org) Open any archive format
