@@ -32,6 +32,10 @@ Feel free to fork and pull changes as well.
 
 1. CadSoft EAGLE - PCB Design software
 
+## Camera Tethering, DSLR
+
+1. gphoto2 / entangle / piggyphoto (python bindings)
+
 ## CD-DVD Burning
 
 1. ImgBurn
