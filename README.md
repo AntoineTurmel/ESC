@@ -100,6 +100,11 @@ Feel free to fork and pull changes as well.
 4. Winamp
 5. KMPlayer
 
+## Network traffic / Sniffing
+
+1. WireShark
+2. Fiddler2 - Useful for debugging web traffic
+
 ## Optical character recognition (OCR)
 
 1. [Tesseract](http://code.google.com/p/tesseract-ocr/)
