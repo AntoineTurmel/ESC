@@ -23,6 +23,7 @@ Feel free to fork and pull changes as well.
 4. Time Recording - keep taps on your time
 5. EveryCurcuit - electornic curcuit simulator
 6. Chrome - great for debuging webapps, using Chrome on your PC
+7. Firefox - browsing the web
 
 ## Archives
 
@@ -74,6 +75,7 @@ Feel free to fork and pull changes as well.
 
 1. Notepad++
 2. PSPad
+3. [Geany](http://www.geany.org/)
 
 ## File transfer
 
@@ -91,12 +93,13 @@ Feel free to fork and pull changes as well.
 1. irssi
 2. mIRC
 3. x-chat
+4. [HexChat](http://hexchat.github.io/)
 
 ## Media Player
 
 1. VLC
 2. mplayer
-3. Songbird
+3. [Nightingale](http://getnightingale.com)
 4. Winamp
 5. KMPlayer
 
